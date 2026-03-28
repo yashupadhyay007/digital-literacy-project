@@ -1,4 +1,4 @@
-## Phishing Case Study
+# Phishing Case Study
 
 Phishing is a common cybercrime in which attackers attempt to steal sensitive information such as passwords, OTPs, bank details, 
 or account credentials by pretending to be a trusted person or organization. 
